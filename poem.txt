@@ -4,6 +4,7 @@ pink
 orange
 blue
 red
+indigo
 green
 yellow
 colors of rainbow n unicorn
