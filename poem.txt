@@ -8,3 +8,4 @@ indigo
 green
 yellow
 colors of rainbow n unicorn
+pony
